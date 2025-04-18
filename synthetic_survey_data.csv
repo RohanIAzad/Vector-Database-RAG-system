@@ -1,0 +1,801 @@
+student_id,year,class_id,faculty_name,question,response
+824974,2024,MECH301,Jane Stark,Do you have any additional comments regarding the instructor?,"The class was fine, nothing special."
+677597,2024,MECH202,Jane Stark,Do you have any additional comments regarding the instructor?,They made complex topics easier to understand.
+400590,2023,MECH301,Goku San,Do you have any additional comments regarding the instructor?,The class felt disorganized and rushed.
+555550,2023,MATH110,Bruce Kent,Do you have any additional comments regarding the instructor?,They made complex topics easier to understand.
+752664,2022,CS101,Jane Stark,Do you have any additional comments regarding the instructor?,"Some parts were engaging, others felt rushed."
+248367,2021,BIO105,Luna Ray,Do you have any additional comments regarding the instructor?,The instructor was helpful but not always clear.
+698124,2021,MECH202,Jane Stark,Do you have any additional comments regarding the instructor?,Appreciated the structured format and timely feedback.
+679385,2023,MECH301,Jane Stark,Do you have any additional comments regarding the instructor?,"I liked the content, but the delivery could be improved."
+379017,2021,MATH110,Clark Lee,Do you have any additional comments regarding the instructor?,The instructor was very clear and engaging.
+705385,2021,CS101,John Doe,Do you have any additional comments regarding the instructor?,The instructor was okay.
+194396,2021,MECH202,John Doe,Do you have any additional comments regarding the instructor?,"The class was fine, nothing special."
+819703,2022,ENG204,Goku San,Do you have any additional comments regarding the instructor?,"Good effort, but the pace was too fast for me."
+523938,2023,BIO105,Clark Lee,Do you have any additional comments regarding the instructor?,The instructor was okay.
+310435,2021,BIO105,Goku San,Do you have any additional comments regarding the instructor?,I enjoyed the lectures and learned a lot.
+771430,2022,CS101,Goku San,Do you have any additional comments regarding the instructor?,The instructor was very clear and engaging.
+752516,2022,BIO105,Goku San,Do you have any additional comments regarding the instructor?,The instructor was very clear and engaging.
+548773,2021,BIO105,Jane Stark,Do you have any additional comments regarding the instructor?,They made complex topics easier to understand.
+737475,2021,MECH202,Goku San,Do you have any additional comments regarding the instructor?,Appreciated the structured format and timely feedback.
+515747,2024,ENG204,Bruce Kent,Do you have any additional comments regarding the instructor?,"The class was fine, nothing special."
+590841,2023,ENG204,Luna Ray,Do you have any additional comments regarding the instructor?,"Some parts were engaging, others felt rushed."
+180121,2023,MATH110,Clark Lee,Do you have any additional comments regarding the instructor?,Not the best or worst experience.
+328701,2024,MATH110,Luna Ray,Do you have any additional comments regarding the instructor?,Great communication and support throughout the course.
+388302,2023,MECH301,Clark Lee,Do you have any additional comments regarding the instructor?,"It met my expectations, no major issues."
+516174,2021,BIO105,Jane Stark,Do you have any additional comments regarding the instructor?,I struggled to follow along due to poor explanations.
+412126,2023,MATH110,Bruce Kent,Do you have any additional comments regarding the instructor?,"The class was fine, nothing special."
+813005,2021,MECH301,Luna Ray,Do you have any additional comments regarding the instructor?,Too many technical issues during lectures.
+597508,2022,ENG204,Bruce Kent,Do you have any additional comments regarding the instructor?,"Some parts were engaging, others felt rushed."
+734949,2022,MECH202,Luna Ray,Do you have any additional comments regarding the instructor?,The instructor was helpful but not always clear.
+240833,2021,CS101,Bruce Kent,Do you have any additional comments regarding the instructor?,"Good effort, but the pace was too fast for me."
+302613,2021,MECH202,Luna Ray,Do you have any additional comments regarding the instructor?,"It met my expectations, no major issues."
+199279,2022,MECH301,John Doe,Do you have any additional comments regarding the instructor?,Lack of detailed feedback on assignments.
+142888,2024,BIO105,Bruce Kent,Do you have any additional comments regarding the instructor?,Not the best or worst experience.
+399976,2021,BIO105,John Doe,Do you have any additional comments regarding the instructor?,"It met my expectations, no major issues."
+424677,2022,CS101,Jane Stark,Do you have any additional comments regarding the instructor?,I struggled to follow along due to poor explanations.
+230510,2021,BIO105,Luna Ray,Do you have any additional comments regarding the instructor?,I enjoyed the lectures and learned a lot.
+569979,2021,ENG204,Jane Stark,Do you have any additional comments regarding the instructor?,"Class was informative, but sometimes repetitive."
+779279,2024,ENG204,John Doe,Do you have any additional comments regarding the instructor?,"I liked the content, but the delivery could be improved."
+508488,2021,MECH301,Bruce Kent,Do you have any additional comments regarding the instructor?,Not the best or worst experience.
+159571,2021,MATH110,Clark Lee,Do you have any additional comments regarding the instructor?,The class felt disorganized and rushed.
+314600,2023,CS101,John Doe,Do you have any additional comments regarding the instructor?,Not the best or worst experience.
+663412,2024,MATH110,Luna Ray,Do you have any additional comments regarding the instructor?,The instructor was helpful but not always clear.
+381110,2021,CS101,John Doe,Do you have any additional comments regarding the instructor?,I struggled to follow along due to poor explanations.
+937124,2024,ENG204,John Doe,Do you have any additional comments regarding the instructor?,"Class was informative, but sometimes repetitive."
+887030,2024,BIO105,Goku San,Do you have any additional comments regarding the instructor?,I struggled to follow along due to poor explanations.
+993804,2023,CS101,Luna Ray,Do you have any additional comments regarding the instructor?,The class felt disorganized and rushed.
+344795,2022,CS101,Bruce Kent,Do you have any additional comments regarding the instructor?,Not the best or worst experience.
+442367,2021,ENG204,Bruce Kent,Do you have any additional comments regarding the instructor?,Not the best or worst experience.
+365687,2021,BIO105,Luna Ray,Do you have any additional comments regarding the instructor?,"I liked the content, but the delivery could be improved."
+297632,2023,MECH301,Luna Ray,Do you have any additional comments regarding the instructor?,Instructor was often unavailable for help.
+181168,2023,MECH301,Jane Stark,Do you have any additional comments regarding the instructor?,Instructor was often unavailable for help.
+873351,2021,BIO105,Goku San,Do you have any additional comments regarding the instructor?,I struggled to follow along due to poor explanations.
+255367,2023,MATH110,Bruce Kent,Do you have any additional comments regarding the instructor?,Lack of detailed feedback on assignments.
+888277,2023,CS101,Clark Lee,Do you have any additional comments regarding the instructor?,The instructor was okay.
+472159,2024,MECH301,John Doe,Do you have any additional comments regarding the instructor?,I enjoyed the lectures and learned a lot.
+268502,2021,MECH301,Luna Ray,Do you have any additional comments regarding the instructor?,Instructor was often unavailable for help.
+545770,2021,CS101,Goku San,Do you have any additional comments regarding the instructor?,Not the best or worst experience.
+347991,2024,CS101,Clark Lee,Do you have any additional comments regarding the instructor?,Appreciated the structured format and timely feedback.
+637481,2024,CS101,Bruce Kent,Do you have any additional comments regarding the instructor?,The instructor was very clear and engaging.
+196401,2023,MECH301,Luna Ray,Do you have any additional comments regarding the instructor?,Great communication and support throughout the course.
+870146,2023,ENG204,Bruce Kent,Do you have any additional comments regarding the instructor?,"The class was fine, nothing special."
+685027,2021,CS101,Jane Stark,Do you have any additional comments regarding the instructor?,I struggled to follow along due to poor explanations.
+898385,2023,ENG204,Goku San,Do you have any additional comments regarding the instructor?,The class felt disorganized and rushed.
+963684,2021,MECH301,Luna Ray,Do you have any additional comments regarding the instructor?,Not the best or worst experience.
+118030,2021,CS101,Goku San,Do you have any additional comments regarding the instructor?,They made complex topics easier to understand.
+176465,2023,MECH202,Goku San,Do you have any additional comments regarding the instructor?,Great communication and support throughout the course.
+367603,2022,MATH110,Luna Ray,Do you have any additional comments regarding the instructor?,Too many technical issues during lectures.
+269084,2024,MECH202,Goku San,Do you have any additional comments regarding the instructor?,The instructor was okay.
+446351,2024,CS101,John Doe,Do you have any additional comments regarding the instructor?,"Class was informative, but sometimes repetitive."
+490016,2021,MECH301,Bruce Kent,Do you have any additional comments regarding the instructor?,"It met my expectations, no major issues."
+934343,2024,MECH202,Bruce Kent,Do you have any additional comments regarding the instructor?,I enjoyed the lectures and learned a lot.
+637082,2022,BIO105,John Doe,Do you have any additional comments regarding the instructor?,The class felt disorganized and rushed.
+720674,2024,MATH110,John Doe,Do you have any additional comments regarding the instructor?,I struggled to follow along due to poor explanations.
+761109,2021,MATH110,Jane Stark,Do you have any additional comments regarding the instructor?,Too many technical issues during lectures.
+430616,2022,MECH301,Luna Ray,Do you have any additional comments regarding the instructor?,They made complex topics easier to understand.
+301255,2024,ENG204,John Doe,Do you have any additional comments regarding the instructor?,Lack of detailed feedback on assignments.
+602522,2024,CS101,Goku San,Do you have any additional comments regarding the instructor?,I struggled to follow along due to poor explanations.
+303471,2023,MECH301,Goku San,Do you have any additional comments regarding the instructor?,"Good effort, but the pace was too fast for me."
+329276,2024,CS101,Luna Ray,Do you have any additional comments regarding the instructor?,Not the best or worst experience.
+379923,2022,MECH301,Bruce Kent,Do you have any additional comments regarding the instructor?,Too many technical issues during lectures.
+376572,2021,MATH110,Jane Stark,Do you have any additional comments regarding the instructor?,The instructor was very clear and engaging.
+863475,2021,MATH110,John Doe,Do you have any additional comments regarding the instructor?,"Some parts were engaging, others felt rushed."
+788375,2022,MECH301,John Doe,Do you have any additional comments regarding the instructor?,The class felt disorganized and rushed.
+986199,2024,BIO105,Goku San,Do you have any additional comments regarding the instructor?,Not the best or worst experience.
+216795,2023,MATH110,Bruce Kent,Do you have any additional comments regarding the instructor?,Average course overall.
+272466,2022,MECH202,Goku San,Do you have any additional comments regarding the instructor?,They made complex topics easier to understand.
+301559,2022,ENG204,Jane Stark,Do you have any additional comments regarding the instructor?,I struggled to follow along due to poor explanations.
+785947,2021,ENG204,Clark Lee,Do you have any additional comments regarding the instructor?,"Some parts were engaging, others felt rushed."
+914646,2022,MATH110,Jane Stark,Do you have any additional comments regarding the instructor?,The instructor was helpful but not always clear.
+464253,2024,MATH110,Luna Ray,Do you have any additional comments regarding the instructor?,I struggled to follow along due to poor explanations.
+733292,2024,ENG204,Clark Lee,Do you have any additional comments regarding the instructor?,I struggled to follow along due to poor explanations.
+262535,2024,MECH301,Clark Lee,Do you have any additional comments regarding the instructor?,"It met my expectations, no major issues."
+897561,2023,MECH202,Goku San,Do you have any additional comments regarding the instructor?,Too many technical issues during lectures.
+191975,2021,BIO105,Goku San,Do you have any additional comments regarding the instructor?,The instructor was very clear and engaging.
+324137,2023,MATH110,Bruce Kent,Do you have any additional comments regarding the instructor?,The instructor was very clear and engaging.
+354144,2022,ENG204,Goku San,Do you have any additional comments regarding the instructor?,Lack of detailed feedback on assignments.
+806791,2023,BIO105,Bruce Kent,Do you have any additional comments regarding the instructor?,The instructor was very clear and engaging.
+630882,2023,ENG204,John Doe,Do you have any additional comments regarding the instructor?,Appreciated the structured format and timely feedback.
+527453,2022,ENG204,Luna Ray,Do you have any additional comments regarding the instructor?,Great communication and support throughout the course.
+765916,2022,BIO105,Bruce Kent,Do you have any additional comments regarding the instructor?,Not the best or worst experience.
+858101,2021,MATH110,Jane Stark,Do you have any additional comments regarding the instructor?,"It met my expectations, no major issues."
+317336,2021,MECH202,John Doe,Do you have any additional comments regarding the instructor?,Great communication and support throughout the course.
+962637,2023,ENG204,Bruce Kent,Do you have any additional comments regarding the instructor?,The instructor was very clear and engaging.
+397576,2023,BIO105,Bruce Kent,Do you have any additional comments regarding the instructor?,"I liked the content, but the delivery could be improved."
+342043,2022,CS101,Bruce Kent,Do you have any additional comments regarding the instructor?,Appreciated the structured format and timely feedback.
+733524,2023,CS101,Bruce Kent,Do you have any additional comments regarding the instructor?,"It met my expectations, no major issues."
+447033,2022,MECH301,Clark Lee,Do you have any additional comments regarding the instructor?,Too many technical issues during lectures.
+888246,2023,MECH202,Clark Lee,Do you have any additional comments regarding the instructor?,Great communication and support throughout the course.
+366048,2024,MECH301,John Doe,Do you have any additional comments regarding the instructor?,Too many technical issues during lectures.
+865919,2022,BIO105,Bruce Kent,Do you have any additional comments regarding the instructor?,The class felt disorganized and rushed.
+740386,2023,MECH301,Goku San,Do you have any additional comments regarding the instructor?,Not the best or worst experience.
+593974,2021,MECH301,Luna Ray,Do you have any additional comments regarding the instructor?,Average course overall.
+102674,2023,ENG204,Bruce Kent,Do you have any additional comments regarding the instructor?,Not the best or worst experience.
+430973,2022,CS101,John Doe,Do you have any additional comments regarding the instructor?,The class felt disorganized and rushed.
+183279,2024,MECH202,John Doe,Do you have any additional comments regarding the instructor?,Too many technical issues during lectures.
+245376,2022,MECH202,Goku San,Do you have any additional comments regarding the instructor?,Great communication and support throughout the course.
+658535,2023,BIO105,Jane Stark,Do you have any additional comments regarding the instructor?,The instructor was okay.
+228296,2024,CS101,Luna Ray,Do you have any additional comments regarding the instructor?,Great communication and support throughout the course.
+610002,2024,MECH202,Luna Ray,Do you have any additional comments regarding the instructor?,Great communication and support throughout the course.
+420219,2024,MECH301,Jane Stark,Do you have any additional comments regarding the instructor?,"It met my expectations, no major issues."
+612921,2021,CS101,John Doe,Do you have any additional comments regarding the instructor?,Instructor was often unavailable for help.
+857294,2024,ENG204,Goku San,Do you have any additional comments regarding the instructor?,The instructor was okay.
+662534,2023,MECH301,Bruce Kent,Do you have any additional comments regarding the instructor?,I enjoyed the lectures and learned a lot.
+145913,2021,ENG204,Clark Lee,Do you have any additional comments regarding the instructor?,They made complex topics easier to understand.
+733509,2022,MECH202,Luna Ray,Do you have any additional comments regarding the instructor?,"I liked the content, but the delivery could be improved."
+290805,2021,CS101,Luna Ray,Do you have any additional comments regarding the instructor?,Too many technical issues during lectures.
+605916,2022,ENG204,Jane Stark,Do you have any additional comments regarding the instructor?,The instructor was helpful but not always clear.
+357522,2024,ENG204,Luna Ray,Do you have any additional comments regarding the instructor?,They made complex topics easier to understand.
+281435,2024,CS101,Luna Ray,Do you have any additional comments regarding the instructor?,The class felt disorganized and rushed.
+564602,2021,BIO105,John Doe,Do you have any additional comments regarding the instructor?,"Some parts were engaging, others felt rushed."
+864842,2023,BIO105,Jane Stark,Do you have any additional comments regarding the instructor?,They made complex topics easier to understand.
+283281,2024,MATH110,Jane Stark,Do you have any additional comments regarding the instructor?,The instructor was helpful but not always clear.
+661146,2023,MATH110,Bruce Kent,Do you have any additional comments regarding the instructor?,"I liked the content, but the delivery could be improved."
+130936,2022,MECH301,Bruce Kent,Do you have any additional comments regarding the instructor?,"Good effort, but the pace was too fast for me."
+962695,2022,MECH202,Clark Lee,Do you have any additional comments regarding the instructor?,"Some parts were engaging, others felt rushed."
+677222,2022,MECH202,Bruce Kent,Do you have any additional comments regarding the instructor?,Appreciated the structured format and timely feedback.
+642713,2024,ENG204,Clark Lee,Do you have any additional comments regarding the instructor?,The instructor was very clear and engaging.
+363642,2023,CS101,Clark Lee,Do you have any additional comments regarding the instructor?,Not the best or worst experience.
+116809,2023,MATH110,Jane Stark,Do you have any additional comments regarding the instructor?,I enjoyed the lectures and learned a lot.
+209795,2022,BIO105,Goku San,Do you have any additional comments regarding the instructor?,Not the best or worst experience.
+298804,2024,BIO105,Goku San,Do you have any additional comments regarding the instructor?,Great communication and support throughout the course.
+125126,2024,MATH110,Jane Stark,Do you have any additional comments regarding the instructor?,The instructor was helpful but not always clear.
+917523,2022,MATH110,John Doe,Do you have any additional comments regarding the instructor?,"Class was informative, but sometimes repetitive."
+885013,2023,MECH301,Goku San,Do you have any additional comments regarding the instructor?,I struggled to follow along due to poor explanations.
+360776,2024,MATH110,Clark Lee,Do you have any additional comments regarding the instructor?,I struggled to follow along due to poor explanations.
+112630,2024,MECH301,Goku San,Do you have any additional comments regarding the instructor?,Lack of detailed feedback on assignments.
+497355,2022,ENG204,John Doe,Do you have any additional comments regarding the instructor?,They made complex topics easier to understand.
+435706,2022,MECH202,Jane Stark,Do you have any additional comments regarding the instructor?,"The class was fine, nothing special."
+411523,2024,MECH202,Goku San,Do you have any additional comments regarding the instructor?,Appreciated the structured format and timely feedback.
+171197,2024,MECH301,Clark Lee,Do you have any additional comments regarding the instructor?,I struggled to follow along due to poor explanations.
+631052,2021,ENG204,John Doe,Do you have any additional comments regarding the instructor?,They made complex topics easier to understand.
+705010,2022,MECH202,Goku San,Do you have any additional comments regarding the instructor?,I struggled to follow along due to poor explanations.
+297586,2022,MECH301,Bruce Kent,Do you have any additional comments regarding the instructor?,"It met my expectations, no major issues."
+133386,2022,ENG204,Jane Stark,Do you have any additional comments regarding the instructor?,"Good effort, but the pace was too fast for me."
+854282,2021,CS101,John Doe,Do you have any additional comments regarding the instructor?,Average course overall.
+771752,2021,BIO105,Luna Ray,Do you have any additional comments regarding the instructor?,"It met my expectations, no major issues."
+328589,2022,MATH110,Jane Stark,Do you have any additional comments regarding the instructor?,Lack of detailed feedback on assignments.
+900235,2023,MATH110,John Doe,Do you have any additional comments regarding the instructor?,Not the best or worst experience.
+541630,2024,CS101,Jane Stark,Do you have any additional comments regarding the instructor?,The instructor was very clear and engaging.
+141698,2024,CS101,Goku San,Do you have any additional comments regarding the instructor?,The instructor was very clear and engaging.
+323628,2021,MECH202,Goku San,Do you have any additional comments regarding the instructor?,"I liked the content, but the delivery could be improved."
+913298,2021,MECH202,Clark Lee,Do you have any additional comments regarding the instructor?,I enjoyed the lectures and learned a lot.
+761139,2021,MATH110,Jane Stark,Do you have any additional comments regarding the instructor?,Not the best or worst experience.
+801064,2021,BIO105,Bruce Kent,Do you have any additional comments regarding the instructor?,The class felt disorganized and rushed.
+130137,2024,MECH202,Luna Ray,Do you have any additional comments regarding the instructor?,"Class was informative, but sometimes repetitive."
+710185,2023,BIO105,Goku San,Do you have any additional comments regarding the instructor?,"I liked the content, but the delivery could be improved."
+327358,2021,MATH110,John Doe,Do you have any additional comments regarding the instructor?,I enjoyed the lectures and learned a lot.
+277506,2024,ENG204,Jane Stark,Do you have any additional comments regarding the instructor?,"Class was informative, but sometimes repetitive."
+627176,2021,MECH301,Bruce Kent,Do you have any additional comments regarding the instructor?,The instructor was helpful but not always clear.
+454329,2023,MECH301,Bruce Kent,Do you have any additional comments regarding the instructor?,Appreciated the structured format and timely feedback.
+607715,2022,CS101,Luna Ray,Do you have any additional comments regarding the instructor?,"Class was informative, but sometimes repetitive."
+331569,2023,BIO105,Luna Ray,Do you have any additional comments regarding the instructor?,"Some parts were engaging, others felt rushed."
+433159,2023,ENG204,John Doe,Do you have any additional comments regarding the instructor?,I enjoyed the lectures and learned a lot.
+708377,2022,MECH301,Clark Lee,Do you have any additional comments regarding the instructor?,The instructor was okay.
+261095,2024,CS101,Bruce Kent,Do you have any additional comments regarding the instructor?,"It met my expectations, no major issues."
+658926,2023,ENG204,Luna Ray,Do you have any additional comments regarding the instructor?,"It met my expectations, no major issues."
+631886,2023,ENG204,Goku San,Do you have any additional comments regarding the instructor?,The instructor was helpful but not always clear.
+356733,2021,MECH301,Luna Ray,Do you have any additional comments regarding the instructor?,The instructor was okay.
+304857,2021,MECH301,Clark Lee,Do you have any additional comments regarding the instructor?,"I liked the content, but the delivery could be improved."
+153337,2021,MECH202,Clark Lee,Do you have any additional comments regarding the instructor?,Too many technical issues during lectures.
+190126,2023,MATH110,John Doe,Do you have any additional comments regarding the instructor?,The class felt disorganized and rushed.
+177467,2021,CS101,Luna Ray,Do you have any additional comments regarding the instructor?,Instructor was often unavailable for help.
+331586,2021,CS101,John Doe,Do you have any additional comments regarding the instructor?,The instructor was okay.
+345101,2024,MECH202,Clark Lee,Do you have any additional comments regarding the instructor?,Great communication and support throughout the course.
+785437,2024,ENG204,John Doe,Do you have any additional comments regarding the instructor?,Appreciated the structured format and timely feedback.
+612081,2021,MECH301,Jane Stark,Do you have any additional comments regarding the instructor?,I enjoyed the lectures and learned a lot.
+932161,2021,MATH110,Goku San,Do you have any additional comments regarding the instructor?,The class felt disorganized and rushed.
+419934,2024,ENG204,John Doe,Do you have any additional comments regarding the instructor?,"I liked the content, but the delivery could be improved."
+321306,2022,ENG204,Clark Lee,Do you have any additional comments regarding the instructor?,Instructor was often unavailable for help.
+704441,2021,MECH202,Jane Stark,Do you have any additional comments regarding the instructor?,Appreciated the structured format and timely feedback.
+385119,2021,MECH202,Bruce Kent,Do you have any additional comments regarding the instructor?,Too many technical issues during lectures.
+778838,2021,ENG204,John Doe,Do you have any additional comments regarding the instructor?,Appreciated the structured format and timely feedback.
+843357,2021,BIO105,Jane Stark,Do you have any additional comments regarding the instructor?,Appreciated the structured format and timely feedback.
+707022,2024,MECH202,Bruce Kent,Do you have any additional comments regarding the instructor?,"I liked the content, but the delivery could be improved."
+770159,2023,MECH202,Bruce Kent,Do you have any additional comments regarding the instructor?,"I liked the content, but the delivery could be improved."
+929054,2021,MECH301,Jane Stark,Do you have any additional comments regarding the instructor?,"Good effort, but the pace was too fast for me."
+682897,2023,BIO105,John Doe,Do you have any additional comments regarding the instructor?,The instructor was very clear and engaging.
+547918,2023,MECH202,Jane Stark,Do you have any additional comments regarding the instructor?,"Class was informative, but sometimes repetitive."
+842873,2022,ENG204,John Doe,Do you have any additional comments regarding the instructor?,"Class was informative, but sometimes repetitive."
+200226,2024,MECH301,Goku San,Do you have any additional comments regarding the instructor?,Too many technical issues during lectures.
+772414,2024,MATH110,Bruce Kent,Do you have any additional comments regarding the instructor?,Too many technical issues during lectures.
+878329,2021,MECH202,Luna Ray,Do you have any additional comments regarding the instructor?,The class felt disorganized and rushed.
+267028,2022,ENG204,John Doe,Do you have any additional comments regarding the instructor?,"Class was informative, but sometimes repetitive."
+176240,2021,ENG204,Clark Lee,Do you have any additional comments regarding the instructor?,"The class was fine, nothing special."
+150022,2022,MATH110,Luna Ray,Do you have any additional comments regarding the instructor?,Instructor was often unavailable for help.
+394033,2024,ENG204,Clark Lee,Do you have any additional comments regarding the instructor?,Average course overall.
+934054,2022,MECH301,Goku San,Do you have any additional comments regarding the instructor?,"It met my expectations, no major issues."
+157140,2024,CS101,Goku San,Do you have any additional comments regarding the instructor?,"The class was fine, nothing special."
+822900,2023,MATH110,Clark Lee,Do you have any additional comments regarding the instructor?,"Good effort, but the pace was too fast for me."
+234595,2024,MATH110,Goku San,Do you have any additional comments regarding the instructor?,They made complex topics easier to understand.
+205684,2024,ENG204,Bruce Kent,Do you have any additional comments regarding the instructor?,The instructor was okay.
+346647,2024,MECH301,Clark Lee,Do you have any additional comments regarding the instructor?,They made complex topics easier to understand.
+549768,2023,MECH301,John Doe,Do you have any additional comments regarding the instructor?,Too many technical issues during lectures.
+786218,2022,MECH301,Goku San,Do you have any additional comments regarding the instructor?,Lack of detailed feedback on assignments.
+643270,2024,BIO105,John Doe,Do you have any additional comments regarding the instructor?,Great communication and support throughout the course.
+974215,2022,BIO105,John Doe,Do you have any additional comments regarding the instructor?,Instructor was often unavailable for help.
+920591,2021,MECH202,Jane Stark,Do you have any additional comments regarding the instructor?,The class felt disorganized and rushed.
+426731,2021,MECH202,Goku San,Do you have any additional comments regarding the instructor?,Lack of detailed feedback on assignments.
+665041,2022,MECH301,Bruce Kent,Do you have any additional comments regarding the instructor?,Lack of detailed feedback on assignments.
+440094,2021,ENG204,Bruce Kent,Do you have any additional comments regarding the instructor?,"The class was fine, nothing special."
+731403,2023,MECH301,Luna Ray,Do you have any additional comments regarding the instructor?,Great communication and support throughout the course.
+666876,2023,MECH202,Goku San,Do you have any additional comments regarding the instructor?,Great communication and support throughout the course.
+679573,2022,MATH110,Luna Ray,Do you have any additional comments regarding the instructor?,The instructor was very clear and engaging.
+374998,2024,MATH110,Goku San,Do you have any additional comments regarding the instructor?,The instructor was helpful but not always clear.
+483988,2023,MATH110,Bruce Kent,Do you have any additional comments regarding the instructor?,"The class was fine, nothing special."
+100915,2024,ENG204,Bruce Kent,Do you have any additional comments regarding the instructor?,"I liked the content, but the delivery could be improved."
+717292,2024,ENG204,Bruce Kent,Do you have any additional comments regarding the instructor?,"Good effort, but the pace was too fast for me."
+386259,2021,MATH110,Bruce Kent,Do you have any additional comments regarding the instructor?,"Class was informative, but sometimes repetitive."
+242797,2024,CS101,Goku San,Do you have any additional comments regarding the instructor?,Not the best or worst experience.
+249432,2024,BIO105,John Doe,Do you have any additional comments regarding the instructor?,Instructor was often unavailable for help.
+692424,2024,MATH110,Bruce Kent,Do you have any additional comments regarding the instructor?,"I liked the content, but the delivery could be improved."
+421608,2023,ENG204,Goku San,Do you have any additional comments regarding the instructor?,Average course overall.
+187097,2023,MECH202,Goku San,Do you have any additional comments regarding the instructor?,"Class was informative, but sometimes repetitive."
+601331,2021,MATH110,Bruce Kent,Do you have any additional comments regarding the instructor?,Instructor was often unavailable for help.
+893943,2021,MECH301,Bruce Kent,Do you have any additional comments regarding the instructor?,I struggled to follow along due to poor explanations.
+868383,2023,MECH301,John Doe,Do you have any additional comments regarding the instructor?,The instructor was okay.
+242518,2021,BIO105,John Doe,Do you have any additional comments regarding the instructor?,"Some parts were engaging, others felt rushed."
+195811,2022,CS101,Jane Stark,Do you have any additional comments regarding the instructor?,"The class was fine, nothing special."
+921269,2023,MECH301,Bruce Kent,Do you have any additional comments regarding the instructor?,I enjoyed the lectures and learned a lot.
+226288,2021,MECH301,Bruce Kent,Do you have any additional comments regarding the instructor?,Average course overall.
+745809,2022,MECH301,Clark Lee,Do you have any additional comments regarding the instructor?,"Some parts were engaging, others felt rushed."
+669583,2023,MECH202,Luna Ray,Do you have any additional comments regarding the instructor?,Too many technical issues during lectures.
+384188,2023,ENG204,Bruce Kent,Do you have any additional comments regarding the instructor?,The class felt disorganized and rushed.
+249194,2024,MATH110,John Doe,Do you have any additional comments regarding the instructor?,Not the best or worst experience.
+130141,2023,MECH301,John Doe,Do you have any additional comments regarding the instructor?,"I liked the content, but the delivery could be improved."
+849846,2023,MATH110,Bruce Kent,Do you have any additional comments regarding the instructor?,I enjoyed the lectures and learned a lot.
+160495,2021,ENG204,Bruce Kent,Do you have any additional comments regarding the instructor?,I enjoyed the lectures and learned a lot.
+684934,2024,CS101,Goku San,Do you have any additional comments regarding the instructor?,The instructor was very clear and engaging.
+230941,2021,ENG204,Luna Ray,Do you have any additional comments regarding the instructor?,I struggled to follow along due to poor explanations.
+305082,2021,CS101,Luna Ray,Do you have any additional comments regarding the instructor?,"Class was informative, but sometimes repetitive."
+484666,2022,MECH202,Jane Stark,Do you have any additional comments regarding the instructor?,Not the best or worst experience.
+416751,2023,MECH202,Jane Stark,Do you have any additional comments regarding the instructor?,"It met my expectations, no major issues."
+338999,2024,MECH202,Luna Ray,Do you have any additional comments regarding the instructor?,The instructor was very clear and engaging.
+123941,2023,MECH202,Clark Lee,Do you have any additional comments regarding the instructor?,The instructor was helpful but not always clear.
+619362,2023,ENG204,John Doe,Do you have any additional comments regarding the instructor?,Too many technical issues during lectures.
+952431,2021,ENG204,Luna Ray,Do you have any additional comments regarding the instructor?,"Some parts were engaging, others felt rushed."
+272865,2023,MATH110,Luna Ray,Do you have any additional comments regarding the instructor?,I struggled to follow along due to poor explanations.
+387078,2021,ENG204,Goku San,Do you have any additional comments regarding the instructor?,The class felt disorganized and rushed.
+565908,2022,MECH301,John Doe,Do you have any additional comments regarding the instructor?,Not the best or worst experience.
+529062,2023,MECH202,Bruce Kent,Do you have any additional comments regarding the instructor?,Not the best or worst experience.
+467206,2021,MECH202,Bruce Kent,Do you have any additional comments regarding the instructor?,"The class was fine, nothing special."
+127255,2021,MECH301,Bruce Kent,Do you have any additional comments regarding the instructor?,Appreciated the structured format and timely feedback.
+599792,2021,CS101,Jane Stark,Do you have any additional comments regarding the instructor?,Average course overall.
+884142,2024,MECH202,John Doe,Do you have any additional comments regarding the instructor?,"Good effort, but the pace was too fast for me."
+659196,2022,MATH110,Clark Lee,Do you have any additional comments regarding the instructor?,Average course overall.
+198512,2021,MATH110,John Doe,Do you have any additional comments regarding the instructor?,I enjoyed the lectures and learned a lot.
+927209,2023,CS101,Clark Lee,Do you have any additional comments regarding the instructor?,They made complex topics easier to understand.
+855077,2024,ENG204,Clark Lee,Do you have any additional comments regarding the instructor?,"Class was informative, but sometimes repetitive."
+407118,2023,MATH110,Clark Lee,Do you have any additional comments regarding the instructor?,Too many technical issues during lectures.
+411251,2023,MECH301,Bruce Kent,Do you have any additional comments regarding the instructor?,Too many technical issues during lectures.
+224499,2021,BIO105,Clark Lee,Do you have any additional comments regarding the instructor?,Appreciated the structured format and timely feedback.
+909186,2022,MATH110,John Doe,Do you have any additional comments regarding the instructor?,"Class was informative, but sometimes repetitive."
+377381,2023,MECH301,Jane Stark,Do you have any additional comments regarding the instructor?,"Good effort, but the pace was too fast for me."
+406720,2023,MECH301,Goku San,Do you have any additional comments regarding the instructor?,Too many technical issues during lectures.
+984385,2021,BIO105,Jane Stark,Do you have any additional comments regarding the instructor?,"It met my expectations, no major issues."
+634504,2022,BIO105,Luna Ray,Do you have any additional comments regarding the instructor?,Too many technical issues during lectures.
+346491,2023,BIO105,Jane Stark,Do you have any additional comments regarding the instructor?,The instructor was very clear and engaging.
+338479,2024,BIO105,Clark Lee,Do you have any additional comments regarding the instructor?,I struggled to follow along due to poor explanations.
+178908,2022,ENG204,Clark Lee,Do you have any additional comments regarding the instructor?,The instructor was okay.
+371515,2023,BIO105,Luna Ray,Do you have any additional comments regarding the instructor?,"I liked the content, but the delivery could be improved."
+324417,2021,CS101,Jane Stark,Do you have any additional comments regarding the instructor?,I enjoyed the lectures and learned a lot.
+249639,2022,BIO105,Luna Ray,Do you have any additional comments regarding the instructor?,They made complex topics easier to understand.
+554642,2022,MATH110,Jane Stark,Do you have any additional comments regarding the instructor?,Great communication and support throughout the course.
+626447,2023,ENG204,Clark Lee,Do you have any additional comments regarding the instructor?,Instructor was often unavailable for help.
+160179,2021,MECH301,Jane Stark,Do you have any additional comments regarding the instructor?,I struggled to follow along due to poor explanations.
+272258,2022,MECH202,Goku San,Do you have any additional comments regarding the instructor?,The instructor was helpful but not always clear.
+984384,2022,MATH110,Bruce Kent,Do you have any additional comments regarding the instructor?,"The class was fine, nothing special."
+497505,2022,MATH110,John Doe,Do you have any additional comments regarding the instructor?,"Class was informative, but sometimes repetitive."
+405235,2024,BIO105,Goku San,Do you have any additional comments regarding the instructor?,Too many technical issues during lectures.
+341218,2022,CS101,John Doe,Do you have any additional comments regarding the instructor?,I struggled to follow along due to poor explanations.
+128890,2022,CS101,Goku San,Do you have any additional comments regarding the instructor?,I struggled to follow along due to poor explanations.
+647733,2024,MECH301,John Doe,Do you have any additional comments regarding the instructor?,Appreciated the structured format and timely feedback.
+156126,2023,MECH202,Goku San,Do you have any additional comments regarding the instructor?,The class felt disorganized and rushed.
+745754,2024,MECH202,Goku San,Do you have any additional comments regarding the instructor?,"Class was informative, but sometimes repetitive."
+117293,2022,MECH202,Bruce Kent,Do you have any additional comments regarding the instructor?,The class felt disorganized and rushed.
+372528,2024,ENG204,Goku San,Do you have any additional comments regarding the instructor?,I enjoyed the lectures and learned a lot.
+915833,2021,MATH110,Bruce Kent,Do you have any additional comments regarding the instructor?,Instructor was often unavailable for help.
+886272,2024,BIO105,Jane Stark,Do you have any additional comments regarding the instructor?,Lack of detailed feedback on assignments.
+427178,2024,ENG204,John Doe,Do you have any additional comments regarding the instructor?,The instructor was okay.
+541339,2022,MATH110,Clark Lee,Do you have any additional comments regarding the instructor?,"Good effort, but the pace was too fast for me."
+667466,2022,MECH202,Clark Lee,Do you have any additional comments regarding the instructor?,The instructor was very clear and engaging.
+914167,2022,MECH202,Clark Lee,Do you have any additional comments regarding the instructor?,Appreciated the structured format and timely feedback.
+932413,2022,MECH301,John Doe,Do you have any additional comments regarding the instructor?,"I liked the content, but the delivery could be improved."
+299287,2024,MATH110,Luna Ray,Do you have any additional comments regarding the instructor?,The class felt disorganized and rushed.
+476947,2021,MECH202,Goku San,Do you have any additional comments regarding the instructor?,"Class was informative, but sometimes repetitive."
+164580,2023,MECH202,Luna Ray,Do you have any additional comments regarding the instructor?,They made complex topics easier to understand.
+992991,2022,BIO105,Jane Stark,Do you have any additional comments regarding the instructor?,"I liked the content, but the delivery could be improved."
+265278,2024,MATH110,Luna Ray,Do you have any additional comments regarding the instructor?,Instructor was often unavailable for help.
+389888,2024,BIO105,Luna Ray,Do you have any additional comments regarding the instructor?,I enjoyed the lectures and learned a lot.
+364667,2022,MECH301,John Doe,Do you have any additional comments regarding the instructor?,I enjoyed the lectures and learned a lot.
+657801,2023,MATH110,Goku San,Do you have any additional comments regarding the instructor?,Instructor was often unavailable for help.
+286418,2023,ENG204,Goku San,Do you have any additional comments regarding the instructor?,"Some parts were engaging, others felt rushed."
+252071,2023,ENG204,Jane Stark,Do you have any additional comments regarding the instructor?,The instructor was very clear and engaging.
+214494,2023,MATH110,Clark Lee,Do you have any additional comments regarding the instructor?,Average course overall.
+201490,2023,ENG204,John Doe,Do you have any additional comments regarding the instructor?,Great communication and support throughout the course.
+882107,2021,CS101,John Doe,Do you have any additional comments regarding the instructor?,I struggled to follow along due to poor explanations.
+497156,2022,BIO105,Goku San,Do you have any additional comments regarding the instructor?,Average course overall.
+560510,2024,ENG204,Luna Ray,Do you have any additional comments regarding the instructor?,Appreciated the structured format and timely feedback.
+986359,2023,MECH202,Bruce Kent,Do you have any additional comments regarding the instructor?,Appreciated the structured format and timely feedback.
+931493,2022,BIO105,Bruce Kent,Do you have any additional comments regarding the instructor?,The instructor was helpful but not always clear.
+168511,2023,MATH110,John Doe,Do you have any additional comments regarding the instructor?,I struggled to follow along due to poor explanations.
+264643,2021,CS101,Clark Lee,Do you have any additional comments regarding the instructor?,Instructor was often unavailable for help.
+800345,2023,MECH301,Luna Ray,Do you have any additional comments regarding the instructor?,Great communication and support throughout the course.
+912629,2021,MATH110,Goku San,Do you have any additional comments regarding the instructor?,Too many technical issues during lectures.
+524276,2024,MECH301,Goku San,Do you have any additional comments regarding the instructor?,I enjoyed the lectures and learned a lot.
+368226,2023,MECH301,Goku San,Do you have any additional comments regarding the instructor?,Great communication and support throughout the course.
+937737,2022,BIO105,Clark Lee,Do you have any additional comments regarding the instructor?,The instructor was okay.
+910443,2021,CS101,Clark Lee,Do you have any additional comments regarding the instructor?,The instructor was okay.
+894415,2024,MECH301,Luna Ray,Do you have any additional comments regarding the instructor?,"I liked the content, but the delivery could be improved."
+740918,2022,MECH202,Jane Stark,Do you have any additional comments regarding the instructor?,"Good effort, but the pace was too fast for me."
+868380,2022,CS101,Jane Stark,Do you have any additional comments regarding the instructor?,They made complex topics easier to understand.
+235302,2022,MATH110,Bruce Kent,Do you have any additional comments regarding the instructor?,Great communication and support throughout the course.
+478478,2021,ENG204,Clark Lee,Do you have any additional comments regarding the instructor?,Too many technical issues during lectures.
+750985,2024,MECH202,Clark Lee,Do you have any additional comments regarding the instructor?,Not the best or worst experience.
+669276,2021,MATH110,Goku San,Do you have any additional comments regarding the instructor?,The instructor was helpful but not always clear.
+538947,2021,MATH110,John Doe,Do you have any additional comments regarding the instructor?,Average course overall.
+317447,2022,MECH301,Jane Stark,Do you have any additional comments regarding the instructor?,"It met my expectations, no major issues."
+332546,2022,MECH202,Jane Stark,Do you have any additional comments regarding the instructor?,"I liked the content, but the delivery could be improved."
+741604,2022,BIO105,Luna Ray,Do you have any additional comments regarding the instructor?,Lack of detailed feedback on assignments.
+356579,2023,MATH110,John Doe,Do you have any additional comments regarding the instructor?,The instructor was helpful but not always clear.
+360945,2021,CS101,Clark Lee,Do you have any additional comments regarding the instructor?,I struggled to follow along due to poor explanations.
+251330,2023,BIO105,Clark Lee,Do you have any additional comments regarding the instructor?,I enjoyed the lectures and learned a lot.
+679406,2021,MATH110,John Doe,Do you have any additional comments regarding the instructor?,"The class was fine, nothing special."
+149949,2021,ENG204,Jane Stark,Do you have any additional comments regarding the instructor?,The class felt disorganized and rushed.
+373779,2023,MECH301,Jane Stark,Do you have any additional comments regarding the instructor?,Appreciated the structured format and timely feedback.
+613685,2024,MECH202,Goku San,Do you have any additional comments regarding the instructor?,Instructor was often unavailable for help.
+795197,2024,CS101,Jane Stark,Do you have any additional comments regarding the instructor?,"It met my expectations, no major issues."
+774474,2021,MATH110,Jane Stark,Do you have any additional comments regarding the instructor?,The instructor was helpful but not always clear.
+379433,2024,ENG204,Jane Stark,Do you have any additional comments regarding the instructor?,"The class was fine, nothing special."
+861261,2022,MECH301,Bruce Kent,Do you have any additional comments regarding the instructor?,"The class was fine, nothing special."
+927838,2024,BIO105,John Doe,Do you have any additional comments regarding the instructor?,Average course overall.
+946292,2024,MATH110,John Doe,Do you have any additional comments regarding the instructor?,Average course overall.
+125454,2022,MATH110,Jane Stark,Do you have any additional comments regarding the instructor?,"I liked the content, but the delivery could be improved."
+849093,2022,BIO105,Bruce Kent,Do you have any additional comments regarding the instructor?,Not the best or worst experience.
+366134,2021,BIO105,Goku San,Do you have any additional comments regarding the instructor?,Great communication and support throughout the course.
+800709,2021,CS101,Luna Ray,Do you have any additional comments regarding the instructor?,The class felt disorganized and rushed.
+347334,2021,ENG204,Goku San,Do you have any additional comments regarding the instructor?,Lack of detailed feedback on assignments.
+390390,2023,ENG204,Clark Lee,Do you have any additional comments regarding the instructor?,The instructor was very clear and engaging.
+830071,2021,CS101,Bruce Kent,Do you have any additional comments regarding the instructor?,"Some parts were engaging, others felt rushed."
+228583,2021,CS101,Clark Lee,Do you have any additional comments regarding the instructor?,Great communication and support throughout the course.
+178308,2023,ENG204,John Doe,Do you have any additional comments regarding the instructor?,Not the best or worst experience.
+217198,2021,MECH202,Luna Ray,Do you have any additional comments regarding the instructor?,They made complex topics easier to understand.
+658914,2023,CS101,Goku San,Do you have any additional comments regarding the instructor?,Appreciated the structured format and timely feedback.
+690305,2024,CS101,Goku San,Do you have any additional comments regarding the instructor?,The instructor was very clear and engaging.
+803833,2022,ENG204,Goku San,Do you have any additional comments regarding the instructor?,Too many technical issues during lectures.
+298740,2024,CS101,Clark Lee,Do you have any additional comments regarding the instructor?,They made complex topics easier to understand.
+116110,2021,MECH202,Bruce Kent,Do you have any additional comments regarding the instructor?,The instructor was helpful but not always clear.
+456327,2024,CS101,Bruce Kent,Do you have any additional comments regarding the instructor?,The instructor was very clear and engaging.
+345658,2024,MECH202,John Doe,Do you have any additional comments regarding the instructor?,"I liked the content, but the delivery could be improved."
+425422,2021,MATH110,John Doe,Do you have any additional comments regarding the instructor?,They made complex topics easier to understand.
+994993,2022,MATH110,Goku San,Do you have any additional comments regarding the instructor?,Appreciated the structured format and timely feedback.
+732267,2021,MECH301,Bruce Kent,Do you have any additional comments regarding the instructor?,I enjoyed the lectures and learned a lot.
+180774,2024,CS101,Bruce Kent,Do you have any additional comments regarding the instructor?,"I liked the content, but the delivery could be improved."
+121942,2023,ENG204,Luna Ray,Do you have any additional comments regarding the instructor?,Instructor was often unavailable for help.
+373253,2024,MATH110,Goku San,Do you have any additional comments regarding the instructor?,The instructor was very clear and engaging.
+705578,2021,ENG204,Luna Ray,Do you have any additional comments regarding the instructor?,Appreciated the structured format and timely feedback.
+361662,2022,MATH110,Clark Lee,Do you have any additional comments regarding the instructor?,"Good effort, but the pace was too fast for me."
+166703,2022,BIO105,Luna Ray,Do you have any additional comments regarding the instructor?,The instructor was very clear and engaging.
+388728,2022,MATH110,Bruce Kent,Do you have any additional comments regarding the instructor?,"Class was informative, but sometimes repetitive."
+227644,2023,ENG204,Bruce Kent,Do you have any additional comments regarding the instructor?,"Some parts were engaging, others felt rushed."
+242163,2023,ENG204,Goku San,Do you have any additional comments regarding the instructor?,I struggled to follow along due to poor explanations.
+884557,2024,BIO105,Jane Stark,Do you have any additional comments regarding the instructor?,They made complex topics easier to understand.
+323953,2022,BIO105,John Doe,Do you have any additional comments regarding the instructor?,Too many technical issues during lectures.
+649506,2024,MECH202,Goku San,Do you have any additional comments regarding the instructor?,"Some parts were engaging, others felt rushed."
+326385,2023,CS101,Luna Ray,Do you have any additional comments regarding the instructor?,Not the best or worst experience.
+919421,2024,MECH202,John Doe,Do you have any additional comments regarding the instructor?,Great communication and support throughout the course.
+423481,2023,CS101,Bruce Kent,Do you have any additional comments regarding the instructor?,Too many technical issues during lectures.
+770000,2022,MECH202,Luna Ray,Do you have any additional comments regarding the instructor?,Appreciated the structured format and timely feedback.
+705763,2024,BIO105,Jane Stark,Do you have any additional comments regarding the instructor?,"Class was informative, but sometimes repetitive."
+934003,2021,MECH301,John Doe,Do you have any additional comments regarding the instructor?,Instructor was often unavailable for help.
+173740,2022,CS101,Luna Ray,Do you have any additional comments regarding the instructor?,Great communication and support throughout the course.
+524980,2023,MATH110,Bruce Kent,Do you have any additional comments regarding the instructor?,"Some parts were engaging, others felt rushed."
+596507,2024,BIO105,Jane Stark,Do you have any additional comments regarding the instructor?,I struggled to follow along due to poor explanations.
+239138,2023,MECH301,Jane Stark,Do you have any additional comments regarding the instructor?,"The class was fine, nothing special."
+825673,2022,MECH202,Clark Lee,Do you have any additional comments regarding the instructor?,I struggled to follow along due to poor explanations.
+872166,2023,MECH301,Luna Ray,Do you have any additional comments regarding the instructor?,They made complex topics easier to understand.
+371291,2022,MATH110,John Doe,Do you have any additional comments regarding the instructor?,The class felt disorganized and rushed.
+224863,2024,MECH301,Bruce Kent,Do you have any additional comments regarding the instructor?,Appreciated the structured format and timely feedback.
+420506,2022,CS101,Goku San,Do you have any additional comments regarding the instructor?,Lack of detailed feedback on assignments.
+635968,2021,CS101,Luna Ray,Do you have any additional comments regarding the instructor?,Average course overall.
+643132,2023,MECH202,Bruce Kent,Do you have any additional comments regarding the instructor?,"Good effort, but the pace was too fast for me."
+282845,2024,MATH110,Bruce Kent,Do you have any additional comments regarding the instructor?,Great communication and support throughout the course.
+665896,2022,CS101,Bruce Kent,Do you have any additional comments regarding the instructor?,The instructor was helpful but not always clear.
+482986,2024,ENG204,Bruce Kent,Do you have any additional comments regarding the instructor?,The instructor was very clear and engaging.
+308398,2024,CS101,John Doe,Do you have any additional comments regarding the instructor?,They made complex topics easier to understand.
+762802,2023,BIO105,Jane Stark,Do you have any additional comments regarding the instructor?,"Class was informative, but sometimes repetitive."
+831395,2022,BIO105,Luna Ray,Do you have any additional comments regarding the instructor?,Average course overall.
+218578,2024,CS101,Bruce Kent,Do you have any additional comments regarding the instructor?,Lack of detailed feedback on assignments.
+610934,2023,MATH110,Clark Lee,Do you have any additional comments regarding the instructor?,"I liked the content, but the delivery could be improved."
+231467,2023,MECH202,Goku San,Do you have any additional comments regarding the instructor?,The instructor was helpful but not always clear.
+380992,2021,BIO105,Bruce Kent,Do you have any additional comments regarding the instructor?,"I liked the content, but the delivery could be improved."
+657139,2022,MATH110,Jane Stark,Do you have any additional comments regarding the instructor?,"Class was informative, but sometimes repetitive."
+126879,2022,ENG204,Jane Stark,Do you have any additional comments regarding the instructor?,Instructor was often unavailable for help.
+579160,2023,MECH202,Clark Lee,Do you have any additional comments regarding the instructor?,They made complex topics easier to understand.
+843556,2021,CS101,Goku San,Do you have any additional comments regarding the instructor?,The instructor was very clear and engaging.
+252898,2024,ENG204,Goku San,Do you have any additional comments regarding the instructor?,"The class was fine, nothing special."
+604970,2024,ENG204,Bruce Kent,Do you have any additional comments regarding the instructor?,I enjoyed the lectures and learned a lot.
+475874,2022,ENG204,Goku San,Do you have any additional comments regarding the instructor?,Average course overall.
+312176,2021,MECH202,Bruce Kent,Do you have any additional comments regarding the instructor?,"I liked the content, but the delivery could be improved."
+450552,2024,MECH301,Bruce Kent,Do you have any additional comments regarding the instructor?,Lack of detailed feedback on assignments.
+710378,2021,MECH202,Jane Stark,Do you have any additional comments regarding the instructor?,I enjoyed the lectures and learned a lot.
+479043,2024,BIO105,Clark Lee,Do you have any additional comments regarding the instructor?,I struggled to follow along due to poor explanations.
+571310,2021,MATH110,John Doe,Do you have any additional comments regarding the instructor?,I enjoyed the lectures and learned a lot.
+703172,2021,ENG204,Luna Ray,Do you have any additional comments regarding the instructor?,"Good effort, but the pace was too fast for me."
+752929,2024,BIO105,John Doe,Do you have any additional comments regarding the instructor?,Lack of detailed feedback on assignments.
+736274,2021,MECH202,Clark Lee,Do you have any additional comments regarding the instructor?,Instructor was often unavailable for help.
+868329,2021,MECH202,Luna Ray,Do you have any additional comments regarding the instructor?,The instructor was okay.
+714460,2022,MECH202,Luna Ray,Do you have any additional comments regarding the instructor?,Great communication and support throughout the course.
+117209,2023,MATH110,Jane Stark,Do you have any additional comments regarding the instructor?,"It met my expectations, no major issues."
+373617,2024,ENG204,Clark Lee,Do you have any additional comments regarding the instructor?,Appreciated the structured format and timely feedback.
+532726,2021,CS101,Goku San,Do you have any additional comments regarding the instructor?,"It met my expectations, no major issues."
+340582,2021,ENG204,Jane Stark,Do you have any additional comments regarding the instructor?,"The class was fine, nothing special."
+833419,2024,MATH110,Bruce Kent,Do you have any additional comments regarding the instructor?,Great communication and support throughout the course.
+311129,2022,BIO105,Bruce Kent,Do you have any additional comments regarding the instructor?,"I liked the content, but the delivery could be improved."
+150132,2023,MECH301,Jane Stark,Do you have any additional comments regarding the instructor?,Average course overall.
+741671,2022,CS101,Goku San,Do you have any additional comments regarding the instructor?,Great communication and support throughout the course.
+587738,2024,MECH301,Jane Stark,Do you have any additional comments regarding the instructor?,Too many technical issues during lectures.
+542462,2021,MATH110,Goku San,Do you have any additional comments regarding the instructor?,The instructor was very clear and engaging.
+326630,2021,ENG204,John Doe,Do you have any additional comments regarding the instructor?,Too many technical issues during lectures.
+398524,2024,MATH110,Bruce Kent,Do you have any additional comments regarding the instructor?,They made complex topics easier to understand.
+922001,2023,CS101,Clark Lee,Do you have any additional comments regarding the instructor?,I struggled to follow along due to poor explanations.
+126509,2024,MECH301,Jane Stark,Do you have any additional comments regarding the instructor?,The class felt disorganized and rushed.
+734794,2021,CS101,Goku San,Do you have any additional comments regarding the instructor?,Instructor was often unavailable for help.
+857313,2023,ENG204,Clark Lee,Do you have any additional comments regarding the instructor?,"Class was informative, but sometimes repetitive."
+672242,2022,MATH110,Goku San,Do you have any additional comments regarding the instructor?,"Good effort, but the pace was too fast for me."
+773534,2021,MECH301,Luna Ray,Do you have any additional comments regarding the instructor?,The instructor was very clear and engaging.
+178858,2023,MECH202,Jane Stark,Do you have any additional comments regarding the instructor?,Instructor was often unavailable for help.
+919835,2024,MATH110,Luna Ray,Do you have any additional comments regarding the instructor?,Appreciated the structured format and timely feedback.
+339930,2023,CS101,Bruce Kent,Do you have any additional comments regarding the instructor?,Instructor was often unavailable for help.
+300131,2021,ENG204,Clark Lee,Do you have any additional comments regarding the instructor?,"Good effort, but the pace was too fast for me."
+283159,2024,ENG204,Clark Lee,Do you have any additional comments regarding the instructor?,Great communication and support throughout the course.
+175558,2024,MATH110,Clark Lee,Do you have any additional comments regarding the instructor?,The instructor was helpful but not always clear.
+251064,2022,MATH110,Jane Stark,Do you have any additional comments regarding the instructor?,Appreciated the structured format and timely feedback.
+245073,2023,CS101,Luna Ray,Do you have any additional comments regarding the instructor?,"It met my expectations, no major issues."
+270534,2022,MATH110,Goku San,Do you have any additional comments regarding the instructor?,Great communication and support throughout the course.
+580523,2022,MATH110,John Doe,Do you have any additional comments regarding the instructor?,The instructor was very clear and engaging.
+966576,2021,MECH202,John Doe,Do you have any additional comments regarding the instructor?,"The class was fine, nothing special."
+349655,2023,MATH110,John Doe,Do you have any additional comments regarding the instructor?,Not the best or worst experience.
+306906,2021,CS101,Bruce Kent,Do you have any additional comments regarding the instructor?,"The class was fine, nothing special."
+879970,2024,MECH202,Bruce Kent,Do you have any additional comments regarding the instructor?,I struggled to follow along due to poor explanations.
+713609,2023,MECH301,Goku San,Do you have any additional comments regarding the instructor?,I struggled to follow along due to poor explanations.
+615930,2021,MECH202,John Doe,Do you have any additional comments regarding the instructor?,"I liked the content, but the delivery could be improved."
+457413,2024,MATH110,Luna Ray,Do you have any additional comments regarding the instructor?,"It met my expectations, no major issues."
+351220,2023,ENG204,John Doe,Do you have any additional comments regarding the instructor?,"Class was informative, but sometimes repetitive."
+287251,2024,MECH202,Jane Stark,Do you have any additional comments regarding the instructor?,"It met my expectations, no major issues."
+191587,2023,MATH110,Luna Ray,Do you have any additional comments regarding the instructor?,"The class was fine, nothing special."
+552886,2022,MECH202,Clark Lee,Do you have any additional comments regarding the instructor?,"Some parts were engaging, others felt rushed."
+908526,2022,MECH301,Luna Ray,Do you have any additional comments regarding the instructor?,"It met my expectations, no major issues."
+993267,2024,MECH202,John Doe,Do you have any additional comments regarding the instructor?,Average course overall.
+990911,2021,BIO105,Bruce Kent,Do you have any additional comments regarding the instructor?,I struggled to follow along due to poor explanations.
+706152,2022,MECH202,Jane Stark,Do you have any additional comments regarding the instructor?,The instructor was very clear and engaging.
+439585,2023,CS101,Jane Stark,Do you have any additional comments regarding the instructor?,"It met my expectations, no major issues."
+172616,2024,MECH202,Clark Lee,Do you have any additional comments regarding the instructor?,Instructor was often unavailable for help.
+992751,2021,BIO105,Bruce Kent,Do you have any additional comments regarding the instructor?,"Good effort, but the pace was too fast for me."
+511052,2022,BIO105,Jane Stark,Do you have any additional comments regarding the instructor?,"Class was informative, but sometimes repetitive."
+694081,2024,MECH301,Bruce Kent,Do you have any additional comments regarding the instructor?,The instructor was very clear and engaging.
+457765,2022,MECH202,Goku San,Do you have any additional comments regarding the instructor?,Lack of detailed feedback on assignments.
+195626,2024,MECH202,Jane Stark,Do you have any additional comments regarding the instructor?,The instructor was okay.
+199481,2022,MECH202,Bruce Kent,Do you have any additional comments regarding the instructor?,The instructor was okay.
+586676,2023,MECH301,Bruce Kent,Do you have any additional comments regarding the instructor?,"I liked the content, but the delivery could be improved."
+113482,2023,ENG204,Bruce Kent,Do you have any additional comments regarding the instructor?,Lack of detailed feedback on assignments.
+638349,2021,CS101,Jane Stark,Do you have any additional comments regarding the instructor?,The instructor was very clear and engaging.
+733650,2024,MECH202,Clark Lee,Do you have any additional comments regarding the instructor?,"Class was informative, but sometimes repetitive."
+365383,2023,MATH110,Jane Stark,Do you have any additional comments regarding the instructor?,The instructor was helpful but not always clear.
+901237,2023,MATH110,John Doe,Do you have any additional comments regarding the instructor?,I enjoyed the lectures and learned a lot.
+766634,2022,ENG204,Goku San,Do you have any additional comments regarding the instructor?,The class felt disorganized and rushed.
+955615,2023,MECH202,John Doe,Do you have any additional comments regarding the instructor?,Great communication and support throughout the course.
+542381,2022,MATH110,Clark Lee,Do you have any additional comments regarding the instructor?,"I liked the content, but the delivery could be improved."
+475034,2024,MATH110,Bruce Kent,Do you have any additional comments regarding the instructor?,Lack of detailed feedback on assignments.
+479223,2021,MECH301,Goku San,Do you have any additional comments regarding the instructor?,The instructor was okay.
+988687,2024,MECH202,Jane Stark,Do you have any additional comments regarding the instructor?,Instructor was often unavailable for help.
+903622,2023,MECH202,Luna Ray,Do you have any additional comments regarding the instructor?,I enjoyed the lectures and learned a lot.
+903976,2023,BIO105,Bruce Kent,Do you have any additional comments regarding the instructor?,"It met my expectations, no major issues."
+263915,2024,MATH110,Jane Stark,Do you have any additional comments regarding the instructor?,"The class was fine, nothing special."
+663114,2022,ENG204,Bruce Kent,Do you have any additional comments regarding the instructor?,They made complex topics easier to understand.
+350765,2024,ENG204,Jane Stark,Do you have any additional comments regarding the instructor?,The instructor was very clear and engaging.
+628820,2024,ENG204,Clark Lee,Do you have any additional comments regarding the instructor?,Appreciated the structured format and timely feedback.
+239397,2021,MATH110,Luna Ray,Do you have any additional comments regarding the instructor?,The instructor was very clear and engaging.
+410634,2024,MATH110,Clark Lee,Do you have any additional comments regarding the instructor?,"Class was informative, but sometimes repetitive."
+554588,2024,MATH110,John Doe,Do you have any additional comments regarding the instructor?,I struggled to follow along due to poor explanations.
+376391,2022,CS101,Luna Ray,Do you have any additional comments regarding the instructor?,They made complex topics easier to understand.
+247712,2022,CS101,Clark Lee,Do you have any additional comments regarding the instructor?,The instructor was helpful but not always clear.
+257825,2021,MECH301,John Doe,Do you have any additional comments regarding the instructor?,Too many technical issues during lectures.
+877276,2024,CS101,Jane Stark,Do you have any additional comments regarding the instructor?,The class felt disorganized and rushed.
+142128,2024,MECH202,Jane Stark,Do you have any additional comments regarding the instructor?,"Some parts were engaging, others felt rushed."
+740755,2023,CS101,Goku San,Do you have any additional comments regarding the instructor?,Too many technical issues during lectures.
+938021,2022,MATH110,Goku San,Do you have any additional comments regarding the instructor?,"I liked the content, but the delivery could be improved."
+216715,2021,MATH110,Bruce Kent,Do you have any additional comments regarding the instructor?,Appreciated the structured format and timely feedback.
+389864,2022,MECH301,Bruce Kent,Do you have any additional comments regarding the instructor?,"It met my expectations, no major issues."
+256401,2021,ENG204,Luna Ray,Do you have any additional comments regarding the instructor?,I struggled to follow along due to poor explanations.
+380855,2021,ENG204,Clark Lee,Do you have any additional comments regarding the instructor?,They made complex topics easier to understand.
+745089,2024,MECH301,Goku San,Do you have any additional comments regarding the instructor?,Great communication and support throughout the course.
+600023,2022,CS101,Luna Ray,Do you have any additional comments regarding the instructor?,"Good effort, but the pace was too fast for me."
+948122,2023,MATH110,Goku San,Do you have any additional comments regarding the instructor?,The instructor was very clear and engaging.
+582962,2023,MECH301,Clark Lee,Do you have any additional comments regarding the instructor?,"Good effort, but the pace was too fast for me."
+882462,2022,MATH110,Clark Lee,Do you have any additional comments regarding the instructor?,"It met my expectations, no major issues."
+278693,2024,MATH110,Jane Stark,Do you have any additional comments regarding the instructor?,"It met my expectations, no major issues."
+627622,2023,MECH202,Jane Stark,Do you have any additional comments regarding the instructor?,"Some parts were engaging, others felt rushed."
+134646,2022,BIO105,Goku San,Do you have any additional comments regarding the instructor?,"It met my expectations, no major issues."
+627750,2022,MECH301,Luna Ray,Do you have any additional comments regarding the instructor?,The instructor was okay.
+770741,2021,MATH110,Clark Lee,Do you have any additional comments regarding the instructor?,Appreciated the structured format and timely feedback.
+249192,2022,CS101,Jane Stark,Do you have any additional comments regarding the instructor?,Appreciated the structured format and timely feedback.
+170462,2022,ENG204,Clark Lee,Do you have any additional comments regarding the instructor?,The instructor was helpful but not always clear.
+709653,2021,MECH301,Bruce Kent,Do you have any additional comments regarding the instructor?,Instructor was often unavailable for help.
+915569,2024,MECH301,John Doe,Do you have any additional comments regarding the instructor?,"Good effort, but the pace was too fast for me."
+651211,2024,CS101,Jane Stark,Do you have any additional comments regarding the instructor?,"Good effort, but the pace was too fast for me."
+982066,2024,CS101,Clark Lee,Do you have any additional comments regarding the instructor?,"Some parts were engaging, others felt rushed."
+719626,2022,MATH110,Goku San,Do you have any additional comments regarding the instructor?,They made complex topics easier to understand.
+797875,2021,CS101,Luna Ray,Do you have any additional comments regarding the instructor?,The class felt disorganized and rushed.
+601736,2024,ENG204,Clark Lee,Do you have any additional comments regarding the instructor?,Average course overall.
+237782,2022,MECH301,Jane Stark,Do you have any additional comments regarding the instructor?,The instructor was okay.
+877403,2022,MECH301,Jane Stark,Do you have any additional comments regarding the instructor?,"It met my expectations, no major issues."
+117340,2022,MATH110,Jane Stark,Do you have any additional comments regarding the instructor?,"The class was fine, nothing special."
+204782,2022,BIO105,Bruce Kent,Do you have any additional comments regarding the instructor?,The instructor was very clear and engaging.
+831519,2022,MECH202,Bruce Kent,Do you have any additional comments regarding the instructor?,"Class was informative, but sometimes repetitive."
+989653,2022,MECH202,Luna Ray,Do you have any additional comments regarding the instructor?,Not the best or worst experience.
+171051,2022,MATH110,Luna Ray,Do you have any additional comments regarding the instructor?,Appreciated the structured format and timely feedback.
+720770,2023,ENG204,Clark Lee,Do you have any additional comments regarding the instructor?,Average course overall.
+307120,2023,MATH110,Jane Stark,Do you have any additional comments regarding the instructor?,Great communication and support throughout the course.
+342123,2021,MECH301,John Doe,Do you have any additional comments regarding the instructor?,"Good effort, but the pace was too fast for me."
+982003,2024,MECH202,Jane Stark,Do you have any additional comments regarding the instructor?,"The class was fine, nothing special."
+248174,2024,MECH301,Jane Stark,Do you have any additional comments regarding the instructor?,"Some parts were engaging, others felt rushed."
+479710,2024,CS101,Goku San,Do you have any additional comments regarding the instructor?,Instructor was often unavailable for help.
+957961,2022,CS101,Goku San,Do you have any additional comments regarding the instructor?,They made complex topics easier to understand.
+876046,2021,MECH301,Jane Stark,Do you have any additional comments regarding the instructor?,"I liked the content, but the delivery could be improved."
+426026,2021,BIO105,Clark Lee,Do you have any additional comments regarding the instructor?,"The class was fine, nothing special."
+866202,2021,MECH301,Bruce Kent,Do you have any additional comments regarding the instructor?,The instructor was very clear and engaging.
+327121,2024,BIO105,Goku San,Do you have any additional comments regarding the instructor?,The instructor was okay.
+994060,2024,MATH110,Luna Ray,Do you have any additional comments regarding the instructor?,Not the best or worst experience.
+535124,2023,MECH301,Jane Stark,Do you have any additional comments regarding the instructor?,Too many technical issues during lectures.
+783594,2024,BIO105,John Doe,Do you have any additional comments regarding the instructor?,Instructor was often unavailable for help.
+934054,2021,MECH301,Clark Lee,Do you have any additional comments regarding the instructor?,Appreciated the structured format and timely feedback.
+151764,2021,MECH301,John Doe,Do you have any additional comments regarding the instructor?,"Good effort, but the pace was too fast for me."
+791022,2024,ENG204,Jane Stark,Do you have any additional comments regarding the instructor?,"The class was fine, nothing special."
+719505,2021,CS101,John Doe,Do you have any additional comments regarding the instructor?,Lack of detailed feedback on assignments.
+903690,2023,CS101,Jane Stark,Do you have any additional comments regarding the instructor?,"I liked the content, but the delivery could be improved."
+558262,2022,MECH301,John Doe,Do you have any additional comments regarding the instructor?,Appreciated the structured format and timely feedback.
+995468,2022,BIO105,Luna Ray,Do you have any additional comments regarding the instructor?,I struggled to follow along due to poor explanations.
+181437,2021,CS101,Jane Stark,Do you have any additional comments regarding the instructor?,Too many technical issues during lectures.
+626370,2023,ENG204,Clark Lee,Do you have any additional comments regarding the instructor?,Appreciated the structured format and timely feedback.
+594203,2023,MECH301,Goku San,Do you have any additional comments regarding the instructor?,The class felt disorganized and rushed.
+889702,2024,MATH110,Clark Lee,Do you have any additional comments regarding the instructor?,The class felt disorganized and rushed.
+270177,2023,ENG204,Luna Ray,Do you have any additional comments regarding the instructor?,"The class was fine, nothing special."
+583039,2021,MATH110,Luna Ray,Do you have any additional comments regarding the instructor?,Average course overall.
+570932,2022,BIO105,Clark Lee,Do you have any additional comments regarding the instructor?,The instructor was helpful but not always clear.
+397857,2021,MATH110,Jane Stark,Do you have any additional comments regarding the instructor?,The instructor was very clear and engaging.
+610458,2021,MATH110,Goku San,Do you have any additional comments regarding the instructor?,"Good effort, but the pace was too fast for me."
+985732,2022,MECH301,Bruce Kent,Do you have any additional comments regarding the instructor?,The instructor was okay.
+441658,2024,MECH301,Luna Ray,Do you have any additional comments regarding the instructor?,"I liked the content, but the delivery could be improved."
+787032,2024,BIO105,Bruce Kent,Do you have any additional comments regarding the instructor?,"I liked the content, but the delivery could be improved."
+833149,2021,MECH202,John Doe,Do you have any additional comments regarding the instructor?,Lack of detailed feedback on assignments.
+882257,2024,MECH202,Goku San,Do you have any additional comments regarding the instructor?,The instructor was helpful but not always clear.
+525786,2023,MECH202,Goku San,Do you have any additional comments regarding the instructor?,"Some parts were engaging, others felt rushed."
+173636,2021,MECH301,John Doe,Do you have any additional comments regarding the instructor?,The instructor was okay.
+453408,2024,MECH301,John Doe,Do you have any additional comments regarding the instructor?,Great communication and support throughout the course.
+234032,2023,MECH301,Luna Ray,Do you have any additional comments regarding the instructor?,They made complex topics easier to understand.
+257613,2023,MATH110,Goku San,Do you have any additional comments regarding the instructor?,Average course overall.
+841018,2022,MATH110,Clark Lee,Do you have any additional comments regarding the instructor?,"I liked the content, but the delivery could be improved."
+672673,2022,MATH110,John Doe,Do you have any additional comments regarding the instructor?,Not the best or worst experience.
+446997,2024,BIO105,Goku San,Do you have any additional comments regarding the instructor?,The instructor was very clear and engaging.
+299137,2021,MECH202,Luna Ray,Do you have any additional comments regarding the instructor?,"The class was fine, nothing special."
+277097,2024,ENG204,Clark Lee,Do you have any additional comments regarding the instructor?,"The class was fine, nothing special."
+285794,2024,ENG204,Jane Stark,Do you have any additional comments regarding the instructor?,"Class was informative, but sometimes repetitive."
+916473,2021,ENG204,Luna Ray,Do you have any additional comments regarding the instructor?,"Class was informative, but sometimes repetitive."
+983490,2022,MECH301,Jane Stark,Do you have any additional comments regarding the instructor?,"It met my expectations, no major issues."
+513304,2022,MECH202,Jane Stark,Do you have any additional comments regarding the instructor?,The instructor was okay.
+958042,2021,MECH202,John Doe,Do you have any additional comments regarding the instructor?,The instructor was very clear and engaging.
+363857,2023,MATH110,Clark Lee,Do you have any additional comments regarding the instructor?,The instructor was helpful but not always clear.
+555758,2021,ENG204,Goku San,Do you have any additional comments regarding the instructor?,The instructor was helpful but not always clear.
+147313,2024,CS101,Jane Stark,Do you have any additional comments regarding the instructor?,The instructor was helpful but not always clear.
+432013,2021,ENG204,Clark Lee,Do you have any additional comments regarding the instructor?,They made complex topics easier to understand.
+630555,2023,CS101,Bruce Kent,Do you have any additional comments regarding the instructor?,"Some parts were engaging, others felt rushed."
+361021,2024,ENG204,Luna Ray,Do you have any additional comments regarding the instructor?,I struggled to follow along due to poor explanations.
+546327,2022,MATH110,Goku San,Do you have any additional comments regarding the instructor?,The class felt disorganized and rushed.
+935340,2021,MATH110,John Doe,Do you have any additional comments regarding the instructor?,"Class was informative, but sometimes repetitive."
+379526,2022,MATH110,Jane Stark,Do you have any additional comments regarding the instructor?,The class felt disorganized and rushed.
+426652,2024,MECH301,Goku San,Do you have any additional comments regarding the instructor?,The class felt disorganized and rushed.
+833812,2021,MECH202,Jane Stark,Do you have any additional comments regarding the instructor?,The instructor was helpful but not always clear.
+364900,2021,CS101,Jane Stark,Do you have any additional comments regarding the instructor?,The instructor was okay.
+765559,2022,CS101,John Doe,Do you have any additional comments regarding the instructor?,The instructor was helpful but not always clear.
+714331,2023,BIO105,Bruce Kent,Do you have any additional comments regarding the instructor?,Too many technical issues during lectures.
+205369,2023,MATH110,Bruce Kent,Do you have any additional comments regarding the instructor?,"I liked the content, but the delivery could be improved."
+679948,2024,CS101,Clark Lee,Do you have any additional comments regarding the instructor?,"Some parts were engaging, others felt rushed."
+645233,2023,MECH301,Bruce Kent,Do you have any additional comments regarding the instructor?,"The class was fine, nothing special."
+378505,2023,BIO105,John Doe,Do you have any additional comments regarding the instructor?,"I liked the content, but the delivery could be improved."
+348455,2023,ENG204,Luna Ray,Do you have any additional comments regarding the instructor?,I enjoyed the lectures and learned a lot.
+117833,2022,MECH202,Jane Stark,Do you have any additional comments regarding the instructor?,"Some parts were engaging, others felt rushed."
+163160,2021,CS101,John Doe,Do you have any additional comments regarding the instructor?,The class felt disorganized and rushed.
+807403,2021,MECH202,Bruce Kent,Do you have any additional comments regarding the instructor?,"Good effort, but the pace was too fast for me."
+260823,2022,MECH202,John Doe,Do you have any additional comments regarding the instructor?,"Good effort, but the pace was too fast for me."
+856384,2024,MECH202,Clark Lee,Do you have any additional comments regarding the instructor?,The instructor was okay.
+794865,2024,ENG204,Jane Stark,Do you have any additional comments regarding the instructor?,Average course overall.
+635286,2021,BIO105,Bruce Kent,Do you have any additional comments regarding the instructor?,"The class was fine, nothing special."
+988617,2021,MECH202,Luna Ray,Do you have any additional comments regarding the instructor?,Not the best or worst experience.
+239628,2024,MECH202,Clark Lee,Do you have any additional comments regarding the instructor?,Great communication and support throughout the course.
+423867,2024,MECH202,Bruce Kent,Do you have any additional comments regarding the instructor?,The instructor was okay.
+948264,2022,MATH110,John Doe,Do you have any additional comments regarding the instructor?,"Some parts were engaging, others felt rushed."
+647668,2023,MATH110,Jane Stark,Do you have any additional comments regarding the instructor?,"The class was fine, nothing special."
+360590,2024,ENG204,Goku San,Do you have any additional comments regarding the instructor?,"The class was fine, nothing special."
+747333,2021,BIO105,Bruce Kent,Do you have any additional comments regarding the instructor?,Not the best or worst experience.
+557976,2022,BIO105,Bruce Kent,Do you have any additional comments regarding the instructor?,"Some parts were engaging, others felt rushed."
+257631,2022,BIO105,Luna Ray,Do you have any additional comments regarding the instructor?,Instructor was often unavailable for help.
+798985,2024,MECH301,Bruce Kent,Do you have any additional comments regarding the instructor?,I struggled to follow along due to poor explanations.
+975881,2024,MECH202,Goku San,Do you have any additional comments regarding the instructor?,The instructor was very clear and engaging.
+460363,2022,CS101,John Doe,Do you have any additional comments regarding the instructor?,Lack of detailed feedback on assignments.
+797678,2024,MECH202,Goku San,Do you have any additional comments regarding the instructor?,Too many technical issues during lectures.
+178813,2023,CS101,John Doe,Do you have any additional comments regarding the instructor?,Too many technical issues during lectures.
+682272,2023,MECH301,Bruce Kent,Do you have any additional comments regarding the instructor?,"Class was informative, but sometimes repetitive."
+394956,2024,CS101,Jane Stark,Do you have any additional comments regarding the instructor?,Appreciated the structured format and timely feedback.
+494259,2022,BIO105,Clark Lee,Do you have any additional comments regarding the instructor?,The instructor was very clear and engaging.
+557817,2022,MECH202,Goku San,Do you have any additional comments regarding the instructor?,I struggled to follow along due to poor explanations.
+487959,2023,CS101,Jane Stark,Do you have any additional comments regarding the instructor?,Appreciated the structured format and timely feedback.
+304845,2023,CS101,Jane Stark,Do you have any additional comments regarding the instructor?,"I liked the content, but the delivery could be improved."
+608298,2023,ENG204,Goku San,Do you have any additional comments regarding the instructor?,"Good effort, but the pace was too fast for me."
+165023,2023,ENG204,Jane Stark,Do you have any additional comments regarding the instructor?,I struggled to follow along due to poor explanations.
+889195,2023,MECH202,Clark Lee,Do you have any additional comments regarding the instructor?,Appreciated the structured format and timely feedback.
+733202,2023,MECH301,Goku San,Do you have any additional comments regarding the instructor?,The instructor was helpful but not always clear.
+269241,2024,MECH202,Jane Stark,Do you have any additional comments regarding the instructor?,"Class was informative, but sometimes repetitive."
+643637,2021,BIO105,John Doe,Do you have any additional comments regarding the instructor?,"I liked the content, but the delivery could be improved."
+972231,2021,MATH110,Bruce Kent,Do you have any additional comments regarding the instructor?,Average course overall.
+312397,2023,MECH301,Luna Ray,Do you have any additional comments regarding the instructor?,I struggled to follow along due to poor explanations.
+948078,2024,MECH202,John Doe,Do you have any additional comments regarding the instructor?,"Good effort, but the pace was too fast for me."
+821459,2023,MECH202,Clark Lee,Do you have any additional comments regarding the instructor?,The instructor was helpful but not always clear.
+833100,2021,BIO105,Jane Stark,Do you have any additional comments regarding the instructor?,I enjoyed the lectures and learned a lot.
+591105,2022,MECH301,Bruce Kent,Do you have any additional comments regarding the instructor?,They made complex topics easier to understand.
+129105,2021,ENG204,John Doe,Do you have any additional comments regarding the instructor?,I enjoyed the lectures and learned a lot.
+517059,2022,BIO105,Jane Stark,Do you have any additional comments regarding the instructor?,Lack of detailed feedback on assignments.
+318596,2023,ENG204,Luna Ray,Do you have any additional comments regarding the instructor?,Average course overall.
+448007,2023,CS101,John Doe,Do you have any additional comments regarding the instructor?,"I liked the content, but the delivery could be improved."
+254018,2023,ENG204,Goku San,Do you have any additional comments regarding the instructor?,"Some parts were engaging, others felt rushed."
+515668,2024,MECH202,Clark Lee,Do you have any additional comments regarding the instructor?,The instructor was very clear and engaging.
+817388,2021,MECH301,Goku San,Do you have any additional comments regarding the instructor?,Appreciated the structured format and timely feedback.
+256676,2022,ENG204,Goku San,Do you have any additional comments regarding the instructor?,Average course overall.
+271946,2024,CS101,Luna Ray,Do you have any additional comments regarding the instructor?,Not the best or worst experience.
+161014,2022,MECH301,Luna Ray,Do you have any additional comments regarding the instructor?,Great communication and support throughout the course.
+974938,2021,MECH301,Bruce Kent,Do you have any additional comments regarding the instructor?,The instructor was helpful but not always clear.
+256043,2024,MATH110,Luna Ray,Do you have any additional comments regarding the instructor?,The class felt disorganized and rushed.
+606964,2024,MECH202,Goku San,Do you have any additional comments regarding the instructor?,Not the best or worst experience.
+644965,2021,BIO105,Goku San,Do you have any additional comments regarding the instructor?,"Some parts were engaging, others felt rushed."
+518105,2023,BIO105,Clark Lee,Do you have any additional comments regarding the instructor?,Not the best or worst experience.
+825608,2024,MECH301,Luna Ray,Do you have any additional comments regarding the instructor?,"Some parts were engaging, others felt rushed."
+156515,2024,MATH110,Jane Stark,Do you have any additional comments regarding the instructor?,I struggled to follow along due to poor explanations.
+382470,2021,MATH110,Bruce Kent,Do you have any additional comments regarding the instructor?,Too many technical issues during lectures.
+326033,2023,MATH110,Jane Stark,Do you have any additional comments regarding the instructor?,"I liked the content, but the delivery could be improved."
+188243,2023,ENG204,Luna Ray,Do you have any additional comments regarding the instructor?,They made complex topics easier to understand.
+844453,2021,MATH110,Clark Lee,Do you have any additional comments regarding the instructor?,The instructor was helpful but not always clear.
+285222,2023,ENG204,John Doe,Do you have any additional comments regarding the instructor?,The instructor was helpful but not always clear.
+614794,2022,BIO105,John Doe,Do you have any additional comments regarding the instructor?,"Class was informative, but sometimes repetitive."
+727891,2021,MECH301,Jane Stark,Do you have any additional comments regarding the instructor?,"I liked the content, but the delivery could be improved."
+720637,2024,BIO105,Bruce Kent,Do you have any additional comments regarding the instructor?,"I liked the content, but the delivery could be improved."
+313906,2023,MATH110,Goku San,Do you have any additional comments regarding the instructor?,"I liked the content, but the delivery could be improved."
+672928,2024,MECH301,Jane Stark,Do you have any additional comments regarding the instructor?,Lack of detailed feedback on assignments.
+910982,2024,BIO105,Clark Lee,Do you have any additional comments regarding the instructor?,The instructor was okay.
+697552,2023,ENG204,Luna Ray,Do you have any additional comments regarding the instructor?,I enjoyed the lectures and learned a lot.
+179970,2024,MECH202,Goku San,Do you have any additional comments regarding the instructor?,The instructor was helpful but not always clear.
+258270,2023,BIO105,Jane Stark,Do you have any additional comments regarding the instructor?,The instructor was helpful but not always clear.
+608545,2022,BIO105,Clark Lee,Do you have any additional comments regarding the instructor?,I enjoyed the lectures and learned a lot.
+126413,2024,ENG204,Clark Lee,Do you have any additional comments regarding the instructor?,"The class was fine, nothing special."
+765354,2021,MECH301,Jane Stark,Do you have any additional comments regarding the instructor?,I enjoyed the lectures and learned a lot.
+407495,2024,MATH110,Jane Stark,Do you have any additional comments regarding the instructor?,The instructor was very clear and engaging.
+877367,2024,CS101,Clark Lee,Do you have any additional comments regarding the instructor?,Too many technical issues during lectures.
+127700,2024,BIO105,Jane Stark,Do you have any additional comments regarding the instructor?,"It met my expectations, no major issues."
+896461,2021,ENG204,Clark Lee,Do you have any additional comments regarding the instructor?,Instructor was often unavailable for help.
+337443,2024,MATH110,Jane Stark,Do you have any additional comments regarding the instructor?,I struggled to follow along due to poor explanations.
+238060,2023,MECH202,Luna Ray,Do you have any additional comments regarding the instructor?,The instructor was very clear and engaging.
+434380,2024,MECH202,Goku San,Do you have any additional comments regarding the instructor?,"Class was informative, but sometimes repetitive."
+960182,2021,ENG204,Clark Lee,Do you have any additional comments regarding the instructor?,"I liked the content, but the delivery could be improved."
+626033,2023,CS101,Clark Lee,Do you have any additional comments regarding the instructor?,"Good effort, but the pace was too fast for me."
+666913,2023,CS101,Jane Stark,Do you have any additional comments regarding the instructor?,Average course overall.
+280935,2022,MECH202,Jane Stark,Do you have any additional comments regarding the instructor?,"I liked the content, but the delivery could be improved."
+911668,2022,MECH301,Luna Ray,Do you have any additional comments regarding the instructor?,Appreciated the structured format and timely feedback.
+873262,2022,MECH202,Luna Ray,Do you have any additional comments regarding the instructor?,"It met my expectations, no major issues."
+625675,2021,MECH301,Luna Ray,Do you have any additional comments regarding the instructor?,"Class was informative, but sometimes repetitive."
+601989,2022,MATH110,Bruce Kent,Do you have any additional comments regarding the instructor?,Instructor was often unavailable for help.
+267786,2021,MATH110,Goku San,Do you have any additional comments regarding the instructor?,"Good effort, but the pace was too fast for me."
+943777,2021,BIO105,Clark Lee,Do you have any additional comments regarding the instructor?,The instructor was okay.
+676960,2021,ENG204,Goku San,Do you have any additional comments regarding the instructor?,Too many technical issues during lectures.
+739222,2022,BIO105,John Doe,Do you have any additional comments regarding the instructor?,The class felt disorganized and rushed.
+550499,2024,MECH301,Bruce Kent,Do you have any additional comments regarding the instructor?,"Class was informative, but sometimes repetitive."
+499190,2022,MATH110,John Doe,Do you have any additional comments regarding the instructor?,Too many technical issues during lectures.
+934656,2022,MECH301,Clark Lee,Do you have any additional comments regarding the instructor?,"The class was fine, nothing special."
+205169,2023,MECH202,John Doe,Do you have any additional comments regarding the instructor?,Great communication and support throughout the course.
+812508,2022,BIO105,Bruce Kent,Do you have any additional comments regarding the instructor?,The instructor was very clear and engaging.
+838597,2024,CS101,Goku San,Do you have any additional comments regarding the instructor?,They made complex topics easier to understand.
+496165,2022,ENG204,John Doe,Do you have any additional comments regarding the instructor?,They made complex topics easier to understand.
+163337,2024,MECH202,Jane Stark,Do you have any additional comments regarding the instructor?,The instructor was okay.
+187384,2023,CS101,Bruce Kent,Do you have any additional comments regarding the instructor?,Too many technical issues during lectures.
+618351,2021,ENG204,Goku San,Do you have any additional comments regarding the instructor?,The instructor was helpful but not always clear.
+818439,2024,MATH110,Bruce Kent,Do you have any additional comments regarding the instructor?,Great communication and support throughout the course.
+617827,2024,MECH301,Goku San,Do you have any additional comments regarding the instructor?,The class felt disorganized and rushed.
+907202,2023,CS101,Luna Ray,Do you have any additional comments regarding the instructor?,"It met my expectations, no major issues."
+670465,2024,MECH202,Luna Ray,Do you have any additional comments regarding the instructor?,Not the best or worst experience.
+946351,2023,MECH301,Goku San,Do you have any additional comments regarding the instructor?,I struggled to follow along due to poor explanations.
+114116,2021,MECH202,Jane Stark,Do you have any additional comments regarding the instructor?,"Class was informative, but sometimes repetitive."
+709293,2024,MECH202,Bruce Kent,Do you have any additional comments regarding the instructor?,"I liked the content, but the delivery could be improved."
+464560,2021,MATH110,Jane Stark,Do you have any additional comments regarding the instructor?,I struggled to follow along due to poor explanations.
+371231,2024,MATH110,Goku San,Do you have any additional comments regarding the instructor?,I enjoyed the lectures and learned a lot.
+631688,2021,MATH110,Goku San,Do you have any additional comments regarding the instructor?,Average course overall.
+394850,2022,ENG204,Jane Stark,Do you have any additional comments regarding the instructor?,The class felt disorganized and rushed.
+917505,2023,MECH202,Goku San,Do you have any additional comments regarding the instructor?,Too many technical issues during lectures.
+788689,2024,ENG204,Luna Ray,Do you have any additional comments regarding the instructor?,"It met my expectations, no major issues."
+636990,2024,MECH301,Bruce Kent,Do you have any additional comments regarding the instructor?,The instructor was helpful but not always clear.
+466156,2024,MECH301,Jane Stark,Do you have any additional comments regarding the instructor?,I struggled to follow along due to poor explanations.
+347542,2023,CS101,John Doe,Do you have any additional comments regarding the instructor?,I struggled to follow along due to poor explanations.
+111298,2022,MECH301,Jane Stark,Do you have any additional comments regarding the instructor?,"The class was fine, nothing special."
+509216,2021,MATH110,Clark Lee,Do you have any additional comments regarding the instructor?,The instructor was very clear and engaging.
+140026,2023,MATH110,Jane Stark,Do you have any additional comments regarding the instructor?,I enjoyed the lectures and learned a lot.
+852548,2021,MECH301,Luna Ray,Do you have any additional comments regarding the instructor?,Instructor was often unavailable for help.
+767112,2022,MECH301,Clark Lee,Do you have any additional comments regarding the instructor?,Too many technical issues during lectures.
+151374,2021,MATH110,Luna Ray,Do you have any additional comments regarding the instructor?,I enjoyed the lectures and learned a lot.
+586991,2023,MATH110,Bruce Kent,Do you have any additional comments regarding the instructor?,"Some parts were engaging, others felt rushed."
+973315,2024,MECH301,Luna Ray,Do you have any additional comments regarding the instructor?,The instructor was very clear and engaging.
+436512,2022,ENG204,Luna Ray,Do you have any additional comments regarding the instructor?,They made complex topics easier to understand.
+463143,2023,BIO105,Bruce Kent,Do you have any additional comments regarding the instructor?,"The class was fine, nothing special."
+680653,2023,CS101,John Doe,Do you have any additional comments regarding the instructor?,The class felt disorganized and rushed.
+193192,2023,MECH301,Jane Stark,Do you have any additional comments regarding the instructor?,"Some parts were engaging, others felt rushed."
+812098,2023,BIO105,Clark Lee,Do you have any additional comments regarding the instructor?,The instructor was okay.
+209141,2021,MECH202,Bruce Kent,Do you have any additional comments regarding the instructor?,"Some parts were engaging, others felt rushed."
+555923,2021,ENG204,Bruce Kent,Do you have any additional comments regarding the instructor?,"Some parts were engaging, others felt rushed."
+947745,2023,CS101,John Doe,Do you have any additional comments regarding the instructor?,Average course overall.
+695886,2023,ENG204,John Doe,Do you have any additional comments regarding the instructor?,Instructor was often unavailable for help.
+597777,2023,ENG204,Clark Lee,Do you have any additional comments regarding the instructor?,Average course overall.
+688481,2021,MECH202,Bruce Kent,Do you have any additional comments regarding the instructor?,"It met my expectations, no major issues."
+894142,2022,MATH110,Goku San,Do you have any additional comments regarding the instructor?,Lack of detailed feedback on assignments.
+989652,2021,ENG204,Jane Stark,Do you have any additional comments regarding the instructor?,The instructor was okay.
+807330,2022,MECH301,Clark Lee,Do you have any additional comments regarding the instructor?,The class felt disorganized and rushed.
+999008,2021,MATH110,Jane Stark,Do you have any additional comments regarding the instructor?,Appreciated the structured format and timely feedback.
+749889,2023,BIO105,Goku San,Do you have any additional comments regarding the instructor?,"Good effort, but the pace was too fast for me."
+951866,2024,MECH301,John Doe,Do you have any additional comments regarding the instructor?,Not the best or worst experience.
+995731,2022,BIO105,Clark Lee,Do you have any additional comments regarding the instructor?,I struggled to follow along due to poor explanations.
+552201,2024,MECH301,Clark Lee,Do you have any additional comments regarding the instructor?,The instructor was okay.
+167077,2023,ENG204,Bruce Kent,Do you have any additional comments regarding the instructor?,I enjoyed the lectures and learned a lot.
+791483,2023,CS101,Luna Ray,Do you have any additional comments regarding the instructor?,Instructor was often unavailable for help.
+979365,2024,MATH110,John Doe,Do you have any additional comments regarding the instructor?,Average course overall.
+689612,2022,MECH202,Jane Stark,Do you have any additional comments regarding the instructor?,The instructor was helpful but not always clear.
+244509,2021,ENG204,Jane Stark,Do you have any additional comments regarding the instructor?,The instructor was helpful but not always clear.
+639210,2021,MECH301,Jane Stark,Do you have any additional comments regarding the instructor?,The instructor was very clear and engaging.
+464290,2024,ENG204,Luna Ray,Do you have any additional comments regarding the instructor?,"I liked the content, but the delivery could be improved."
+974783,2024,MECH202,Goku San,Do you have any additional comments regarding the instructor?,Too many technical issues during lectures.
+907915,2023,MECH301,Bruce Kent,Do you have any additional comments regarding the instructor?,They made complex topics easier to understand.
+500081,2022,CS101,Luna Ray,Do you have any additional comments regarding the instructor?,Instructor was often unavailable for help.
+977765,2023,MATH110,John Doe,Do you have any additional comments regarding the instructor?,The class felt disorganized and rushed.
+190019,2022,CS101,Jane Stark,Do you have any additional comments regarding the instructor?,"I liked the content, but the delivery could be improved."
+743742,2022,BIO105,Luna Ray,Do you have any additional comments regarding the instructor?,Instructor was often unavailable for help.
+108736,2021,ENG204,Luna Ray,Do you have any additional comments regarding the instructor?,Lack of detailed feedback on assignments.
+383901,2021,MECH202,Clark Lee,Do you have any additional comments regarding the instructor?,I struggled to follow along due to poor explanations.
+703933,2023,MATH110,Jane Stark,Do you have any additional comments regarding the instructor?,Lack of detailed feedback on assignments.
+466902,2022,BIO105,Luna Ray,Do you have any additional comments regarding the instructor?,I enjoyed the lectures and learned a lot.
+280732,2024,ENG204,Clark Lee,Do you have any additional comments regarding the instructor?,"The class was fine, nothing special."
+177336,2023,BIO105,Bruce Kent,Do you have any additional comments regarding the instructor?,"Good effort, but the pace was too fast for me."
+949221,2021,ENG204,Bruce Kent,Do you have any additional comments regarding the instructor?,"I liked the content, but the delivery could be improved."
+246364,2021,MECH301,John Doe,Do you have any additional comments regarding the instructor?,I enjoyed the lectures and learned a lot.
+736601,2024,MECH301,Goku San,Do you have any additional comments regarding the instructor?,Appreciated the structured format and timely feedback.
+287740,2024,BIO105,Jane Stark,Do you have any additional comments regarding the instructor?,"I liked the content, but the delivery could be improved."
+600364,2023,BIO105,Bruce Kent,Do you have any additional comments regarding the instructor?,"It met my expectations, no major issues."
+567913,2021,CS101,John Doe,Do you have any additional comments regarding the instructor?,"Some parts were engaging, others felt rushed."
+279708,2021,MECH202,Goku San,Do you have any additional comments regarding the instructor?,The instructor was helpful but not always clear.
+187287,2023,MECH301,Jane Stark,Do you have any additional comments regarding the instructor?,Too many technical issues during lectures.
+157826,2023,CS101,Jane Stark,Do you have any additional comments regarding the instructor?,"Class was informative, but sometimes repetitive."
+803360,2023,MATH110,Clark Lee,Do you have any additional comments regarding the instructor?,Appreciated the structured format and timely feedback.
+262144,2021,BIO105,Goku San,Do you have any additional comments regarding the instructor?,Average course overall.
+876214,2024,MECH301,John Doe,Do you have any additional comments regarding the instructor?,Average course overall.
+307659,2021,BIO105,Goku San,Do you have any additional comments regarding the instructor?,"I liked the content, but the delivery could be improved."
+751044,2023,ENG204,Luna Ray,Do you have any additional comments regarding the instructor?,I enjoyed the lectures and learned a lot.
+538638,2023,MECH301,Goku San,Do you have any additional comments regarding the instructor?,Great communication and support throughout the course.
+119644,2021,ENG204,Clark Lee,Do you have any additional comments regarding the instructor?,The instructor was okay.
+489321,2024,ENG204,Jane Stark,Do you have any additional comments regarding the instructor?,The instructor was very clear and engaging.
+552115,2023,ENG204,John Doe,Do you have any additional comments regarding the instructor?,The class felt disorganized and rushed.
+814280,2024,MECH202,Clark Lee,Do you have any additional comments regarding the instructor?,Appreciated the structured format and timely feedback.
+939774,2021,ENG204,Luna Ray,Do you have any additional comments regarding the instructor?,The class felt disorganized and rushed.
+571282,2024,MATH110,Bruce Kent,Do you have any additional comments regarding the instructor?,The instructor was okay.
+148900,2022,MECH202,John Doe,Do you have any additional comments regarding the instructor?,I struggled to follow along due to poor explanations.
+636839,2021,BIO105,Clark Lee,Do you have any additional comments regarding the instructor?,"It met my expectations, no major issues."
+941478,2022,CS101,Goku San,Do you have any additional comments regarding the instructor?,The class felt disorganized and rushed.
+762059,2022,MECH301,Luna Ray,Do you have any additional comments regarding the instructor?,"Some parts were engaging, others felt rushed."
+480681,2023,MATH110,Bruce Kent,Do you have any additional comments regarding the instructor?,"Class was informative, but sometimes repetitive."
+781680,2024,CS101,Luna Ray,Do you have any additional comments regarding the instructor?,Appreciated the structured format and timely feedback.
+879292,2023,MECH202,John Doe,Do you have any additional comments regarding the instructor?,The instructor was very clear and engaging.
+625213,2021,MECH301,Bruce Kent,Do you have any additional comments regarding the instructor?,They made complex topics easier to understand.
+216137,2022,CS101,Luna Ray,Do you have any additional comments regarding the instructor?,"Good effort, but the pace was too fast for me."
+966744,2022,BIO105,Luna Ray,Do you have any additional comments regarding the instructor?,The instructor was helpful but not always clear.
